@@ -1,0 +1,19 @@
+body {
+  background-color: skyblue
+}
+
+hr {
+  border-style: none ;
+  border-top: dotted;
+  border-color: darkcyan;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #005555
+}
+
+h3 {
+  color: #005555
+}
